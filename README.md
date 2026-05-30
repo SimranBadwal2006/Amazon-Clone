@@ -30,7 +30,17 @@ Open index.html
 ![Navbar](screenshots/{57A5824A-2BD1-439B-8DEB-475E00DC9B4F}.png)
 
 ### Footer Section
-![Footer](screenshots/{66CBE087-4AE5-419D-8E6D-4C850346947C}.png)
+![Footer](screenshots/{930A33E7-DE4F-4BA3-BD5E-93498EAF50DB}.png)
 
 ## GitHub Repository
 https://github.com/SimranBadwal2006/Amazon-Clone
+
+---
+
+<h2 align="center">⭐ Thank You for Visiting! ⭐</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Thank+You+for+Checking+Out+This+Project!;Hope+You+Liked+It+🚀;Keep+Coding+✨"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
